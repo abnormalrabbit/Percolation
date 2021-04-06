@@ -21,9 +21,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="ServiceViewManager">
@@ -56,5 +56,9 @@
       <screen x="0" y="25" width="1440" height="795" />
     </state>
     <state x="556" y="317" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.25.1440.795/1440.-196.1920.1055@0.25.1440.795" timestamp="1617675749486" />
+    <state x="191" y="25" key="SettingsEditor" timestamp="1617682278118">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="191" y="25" key="SettingsEditor/0.25.1440.795/1440.-196.1920.1055@0.25.1440.795" timestamp="1617682278117" />
   </component>
 </project>
